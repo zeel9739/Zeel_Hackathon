@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isMore": false,
+  "name": "Vegetables & Greens",
+  "photo": "https://res.cloudinary.com/recipely2022/image/upload/v1650080564/jogoscdyd3qqt2ja94zf.png",
+  "cloudinary_id": "jogoscdyd3qqt2ja94zf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isMore": false,
+  "name": "Dairy & Eggs",
+  "photo": "https://res.cloudinary.com/recipely2022/image/upload/v1650080647/rgl0ldkr1vwfasrza7qb.png",
+  "cloudinary_id": "rgl0ldkr1vwfasrza7qb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63e3bee28ad56ea99d1995c2"
+  },
+  "isMore": false,
+  "name": "Baking",
+  "photo": "http://localhost:3004/uploads\\categoryImg\\16758699228391.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f85d90bb2fabf9caf70657"
+  },
+  "isMore": false,
+  "name": "Herbs_Spices",
+  "photo": "http://localhost:3004/uploads\\categoryImg\\16772212647704.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433aad3cb61520b38043ebb"
+  },
+  "isMore": false,
+  "name": "zzz",
+  "photo": "http://localhost:3004/uploads\\categoryImg\\16811076671769.jpg",
+  "__v": 0
+}]

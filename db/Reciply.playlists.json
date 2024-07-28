@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6413108c53bd919f598ef402"
+  },
+  "channel": {
+    "$oid": "64130fd453bd919f598ef3e6"
+  },
+  "name": "v",
+  "recipes": [
+    {
+      "$oid": "6413106b53bd919f598ef3f1"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\167897102056811.jpg",
+  "time": {
+    "$date": "2023-03-16T12:50:20.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641884c6b8a70a81ec2f061f"
+  },
+  "channel": {
+    "$oid": "64188415b8a70a81ec2f05f3"
+  },
+  "name": "Choco",
+  "recipes": [
+    {
+      "$oid": "641884acb8a70a81ec2f060d"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\167932845459345.jpg",
+  "time": {
+    "$date": "2023-03-20T16:07:34.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64193a06340f88a8f76b59a6"
+  },
+  "channel": {
+    "$oid": "64193985340f88a8f76b5988"
+  },
+  "name": "panjabi",
+  "recipes": [
+    {
+      "$oid": "641939ed340f88a8f76b5993"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\16793748541057.jpg",
+  "time": {
+    "$date": "2023-03-21T05:00:54.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324974a8608c01c54972f6"
+  },
+  "channel": {
+    "$oid": "64324799a8608c01c549728f"
+  },
+  "name": "kaju badam",
+  "recipes": [
+    {
+      "$oid": "64324953a8608c01c54972e0"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\16810172048039.jpg",
+  "time": {
+    "$date": "2023-04-09T05:13:24.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433a7bccb61520b38043c7d"
+  },
+  "channel": {
+    "$oid": "6433a6dbcb61520b38043c2a"
+  },
+  "name": "wefeer",
+  "recipes": [
+    {
+      "$oid": "6433a76acb61520b38043c35"
+    },
+    {
+      "$oid": "6433a7accb61520b38043c63"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\16811068767728.jpg",
+  "time": {
+    "$date": "2023-04-10T06:07:56.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644aa659ab66f0b053f09732"
+  },
+  "channel": {
+    "$oid": "644aa3a8ab66f0b053f096c9"
+  },
+  "name": "food",
+  "recipes": [
+    {
+      "$oid": "644aa444ab66f0b053f096d5"
+    },
+    {
+      "$oid": "644aa56aab66f0b053f096f3"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\168261384997611.jpg",
+  "time": {
+    "$date": "2023-04-27T16:44:09.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b6ef50aa83d858a248de1"
+  },
+  "channel": {
+    "$oid": "644b6e860aa83d858a248dc2"
+  },
+  "name": "vfgf",
+  "recipes": [
+    {
+      "$oid": "644b6edf0aa83d858a248dce"
+    }
+  ],
+  "photo": "http://localhost:3004/uploads\\playlistImg\\16826652055791.jpg",
+  "time": {
+    "$date": "2023-04-28T07:00:05.599Z"
+  },
+  "__v": 0
+}]

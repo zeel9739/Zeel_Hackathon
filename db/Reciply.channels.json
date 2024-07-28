@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "644aa3a8ab66f0b053f096c9"
+  },
+  "channelname": "test",
+  "email": "test@gmail.com",
+  "password": "$2b$10$b1GLsublHc0B3sT5OHoLueedXKMvyo4Diu8xnIAs91ioPPYPwUoOe",
+  "recipe_ids": [
+    {
+      "$oid": "644aa444ab66f0b053f096d5"
+    },
+    {
+      "$oid": "644aa4d7ab66f0b053f096de"
+    },
+    {
+      "$oid": "644aa56aab66f0b053f096f3"
+    },
+    {
+      "$oid": "644aa5d2ab66f0b053f09700"
+    },
+    {
+      "$oid": "644aa63eab66f0b053f0970d"
+    }
+  ],
+  "time": {
+    "$date": "2023-04-27T16:22:09.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b37e87f1d2c81e234aae1"
+  },
+  "channelname": "dddd",
+  "email": "dddd@gmail.com",
+  "password": "$2b$10$mRgGS1d1IYLev1IzvMtDuuUjbHLTG0V0FdYXpAt4KfjfV.0YejDz.",
+  "recipe_ids": [],
+  "time": {
+    "$date": "2023-04-28T02:56:27.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b3e33f296d6daf3cc5a89"
+  },
+  "channelname": "kkk",
+  "email": "kkk@gmail.com",
+  "password": "$2b$10$hS9/e2LBHOyyaPJnvKfe8.KOefroynsq0GBS4orRmZzVbopgw3ove",
+  "recipe_ids": [
+    {
+      "$oid": "644b3f48f296d6daf3cc5aa0"
+    }
+  ],
+  "time": {
+    "$date": "2023-04-28T03:12:20.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b6e860aa83d858a248dc2"
+  },
+  "channelname": "zzz",
+  "email": "zzzz@gmail.com",
+  "password": "$2b$10$nlbszqivXXRUtoS5PJdtHuP91D3FyDi79Nu7sH7RIO5XaIPgo8LZ6",
+  "recipe_ids": [
+    {
+      "$oid": "644b6edf0aa83d858a248dce"
+    }
+  ],
+  "time": {
+    "$date": "2023-04-28T06:41:13.318Z"
+  },
+  "__v": 0
+}]

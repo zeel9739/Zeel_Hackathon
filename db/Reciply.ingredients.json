@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "625a3c35a546d3afa6246c9b"
+  },
+  "name": "garlic",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c3da546d3afa6246c9e"
+  },
+  "name": "onion",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c43a546d3afa6246ca1"
+  },
+  "name": "tomato",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c48a546d3afa6246ca4"
+  },
+  "name": "carrot",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c4ea546d3afa6246ca7"
+  },
+  "name": "potato",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c64a546d3afa6246cad"
+  },
+  "name": "shallot",
+  "category": {
+    "$oid": "625a3b2ea546d3afa6246c94"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c85a546d3afa6246cb0"
+  },
+  "name": "butter",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c8ba546d3afa6246cb3"
+  },
+  "name": "egg",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c92a546d3afa6246cb6"
+  },
+  "name": "milk",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3c9ea546d3afa6246cb9"
+  },
+  "name": "heavy cream",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3ca7a546d3afa6246cbc"
+  },
+  "name": "cream",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625a3cb0a546d3afa6246cbf"
+  },
+  "name": "buttermilk",
+  "category": {
+    "$oid": "625a3b80a546d3afa6246c96"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63e3bef38ad56ea99d1995c6"
+  },
+  "name": "flour",
+  "category": {
+    "$oid": "63e3bee28ad56ea99d1995c2"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63e3bf008ad56ea99d1995cb"
+  },
+  "name": "vanilla",
+  "category": {
+    "$oid": "63e3bee28ad56ea99d1995c2"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f85dbdbb2fabf9caf7065b"
+  },
+  "name": "cilantro",
+  "category": {
+    "$oid": "63f85d90bb2fabf9caf70657"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f85dc6bb2fabf9caf70660"
+  },
+  "name": "parsley",
+  "category": {
+    "$oid": "63f85d90bb2fabf9caf70657"
+  },
+  "isActive": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433aadbcb61520b38043ebf"
+  },
+  "name": "3eexdssx",
+  "category": {
+    "$oid": "6433aad3cb61520b38043ebb"
+  },
+  "isActive": false,
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "624a76c5de085fbfde5102d0"
+  },
+  "avtname": "sbkitchen",
+  "avtpic": "https://res.cloudinary.com/recipely2022/image/upload/v1649047255/ed9bavgukit7vrtz40k1.png",
+  "cloudinary_id": "ed9bavgukit7vrtz40k1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "625fd6bb71ac82784372cf7b"
+  },
+  "avtname": "abc",
+  "avtpic": "https://res.cloudinary.com/recipely2022/image/upload/v1650448061/ffwuwrpgtvwgi12du93v.png",
+  "cloudinary_id": "ffwuwrpgtvwgi12du93v",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324b42a8608c01c5497363"
+  },
+  "avtname": "xxx",
+  "avtpic": "http://localhost:3004/uploads\\avatarImg\\16810176663629.jpg",
+  "__v": 0
+}]
